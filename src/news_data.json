@@ -1,0 +1,63 @@
+[
+  {
+    "id": 0,
+    "carType": "Ofrodr",
+    "title": "BMW X - 5",
+    "description": "Since of more than 40,000  than $422 million.",
+    "imageUrl": "https://cdn.dicklovett.co.uk/uploads/new_vehicle/4_174.png?v=1685718792",
+    "isFavorite": false
+  },
+  {
+    "id": 1,
+    "carType": "Sedan",
+    "title": "Lonborgini Reventon",
+    "description": "New Coinbase  and into their bank accounts.",
+    "imageUrl": "https://robbreport.com/wp-content/uploads/2023/04/reventon01.jpg?w=1000",
+    "isFavorite": true
+  },
+  {
+    "id": 2,
+    "carType": "Sport",
+    "title": "Lonborgini Aventador",
+    "description": "On today's Videfiles, but also steals it.",
+    "imageUrl": "https://content.scalecar.ru/clipart/53157/a08oG3ZLiP2NfC5p-30.jpg",
+    "isFavorite": false
+
+  },
+  {
+    "id": 3,
+    "carType": "Hizli",
+    "title": "Lamborghini-Huracan",
+    "description": "Shares few minutes into market open.",
+    "imageUrl": "https://di-uploads-pod42.dealerinspire.com/lamborghinibroward/uploads/2022/03/2021-Lamborghini-Huraca%CC%81n-STO.jpg",
+    "isFavorite": true
+
+  },
+  {
+    "id": 4,
+    "carType": "Ofrodr",
+    "title": "Lamborghini- URUS",
+    "description": "Shares  third-quarter revenue.",
+    "imageUrl": "https://vipmotors.ae/wp-content/uploads/PHOTO-2022-05-06-16-13-40-6-e1673524019124.jpg",
+    "isFavorite": false
+
+  },
+  {
+    "id": 5,
+    "carType": "Cupe",
+    "title": "Ford  mustang",
+    "description": "New Coinbase has t of  their bank accounts.",
+    "imageUrl": "https://i.pinimg.com/1200x/be/90/de/be90de507f8781737e2db19c4f9e2ff9.jpg",
+    "isFavorite": false
+
+  },
+  {
+    "id": 6,
+    "carType": "Pkiap",
+    "title": "F-150",
+    "description": "On today's encrypts files, but also steals it.",
+    "imageUrl": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2017/08/ford-f-22-f-150-raptor_4.jpg",
+    "isFavorite": true
+
+  }
+]
